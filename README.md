@@ -32,23 +32,25 @@ class MustafaMutlu:
 
 me = MustafaMutlu()
 me.say_hi()
+```
 
-🛠️ Yetenekler & İletişim
+<h3 align="center">🛠️ Yetenekler & Araçlar</h3>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,cs,c,python,vscode,github,git&perline=7" />
 </p>
 
-<div align="center">
+<h3 align="center">🤝 İletişim</h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/mustafa-mutlu-b93282379" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mustafamtu3458@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-</div>
+</p>
 
 <div align="center">
 <i>"Zeka, değişime uyum sağlama yeteneğidir." 🚀</i>
