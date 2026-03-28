@@ -37,7 +37,7 @@ me.say_hi()
 <h3 align="center">🛠️ Teknik Yetenekler & Araçlar</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,cs,c,python,vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=java,c,cs" />
 </p>
 
 <div align="center">
