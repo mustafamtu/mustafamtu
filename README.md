@@ -16,7 +16,7 @@ class MustafaMutlu:
     def __init__(self):
         self.username = "mustafamtu"
         self.location = "Turkey 🇹🇷"
-        self.education = "MIS Freshman @ Marmara University" # Okul adını değiştirebilirsin
+        self.education = "MIS Freshman @ Istanbul Aydın University" 
         self.interests = ["AI Strategy", "Backend Development", "Agentic Systems"]
         self.languages = ["Java", "C#", "C", "Python (Learning)"]
         self.current_focus = "Mastering programming logic and AI quality evaluation"
