@@ -16,10 +16,10 @@ class MustafaMutlu:
     def __init__(self):
         self.username = "mustafamtu"
         self.location = "Turkey 🇹🇷"
-        self.education = "MIS Freshman (YBS 1. Sınıf)"
+        self.education = "MIS Freshman @ Marmara University" # Okul adını değiştirebilirsin
         self.interests = ["AI Strategy", "Backend Development", "Agentic Systems"]
-        self.languages = ["Java", "C#", "C"]
-        self.current_focus = "Building a solid foundation in algorithms and business logic"
+        self.languages = ["Java", "C#", "C", "Python (Learning)"]
+        self.current_focus = "Mastering programming logic and AI quality evaluation"
 
     def say_hi(self):
         print("Geleceği kod ve stratejiyle inşa ediyoruz. Hoş geldiniz!")
