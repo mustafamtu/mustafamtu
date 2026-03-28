@@ -1,30 +1,28 @@
-# Hoş Geldin, Ben Mustafa Mutlu! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mustafa+Mutlu;MIS+Student;Aspiring+AI+Developer;Tech+%26+Business+Bridge" alt="Typing SVG" />
+</h1>
 
-### 🎓 Yönetim Bilişim Sistemleri (YBS) 1. Sınıf Öğrencisi
-Teknoloji ve işletme dünyasının kesişim noktasında, yapay zeka ve sistem mimarisi üzerine kendimi geliştiriyorum.
-
-- 🚀 Şu an **Java ve C#** temelleri üzerinde çalışıyorum (Algoritmalar ve Kontrol Yapıları).
-- 🧠 **Yapay Zeka (AI)** ve **Ajan tabanlı sistemler** (Agentic AI) özel ilgi alanım.
-- 🎯 Hedefim: Büyük dil modellerinin (LLM) arka planında ve veri yönetiminde uzmanlaşmak.
-
----
-
-### 🛠️ Teknik Yetenekler (Gelişmekte)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafamtu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mustafamtu?label=Followers&style=flat-square&color=blue" alt="followers" />
+</p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+## 👨‍💻 Hakkımda
 
-![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=mustafamtu&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamtu&layout=compact&theme=radical)
+```python
+class MustafaMutlu:
+    def __init__(self):
+        self.username = "mustafamtu"
+        self.location = "Turkey 🇹🇷"
+        self.education = "MIS Freshman (YBS 1. Sınıf)"
+        self.interests = ["AI Strategy", "Backend Development", "Agentic Systems"]
+        self.languages = ["Java", "C#", "C"]
+        self.current_focus = "Building a solid foundation in algorithms and business logic"
 
----
+    def say_hi(self):
+        print("Geleceği kod ve stratejiyle inşa ediyoruz. Hoş geldiniz!")
 
-### 📫 Bana Ulaşın
-- [LinkedIn](https://www.linkedin.com/in/mustafa-mutlu-b93282379)
-- [E-posta](mailto:mustafamtu3458@gmail.com])
+me = MustafaMutlu()
+me.say_hi()
