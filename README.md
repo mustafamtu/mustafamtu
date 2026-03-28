@@ -7,7 +7,7 @@
 <td>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Hi+,+I+am+Mustafa+Mutlu!;MIS+Freshman;Interested+in+AI/ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Hi+there!+I'm+Mustafa+Mutlu;MIS+Student+@+IAU;Aspiring+AI+Developer;Tech+and+Business+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -32,3 +32,32 @@ class MustafaMutlu:
 
 me = MustafaMutlu()
 me.say_hi()
+
+🛠️ Yetenekler & İletişim
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cs,c,python,vscode,github,git&perline=7" />
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mustafa-mutlu-b93282379" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:mustafamtu3458@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<div align="center">
+<i>"Zeka, değişime uyum sağlama yeteneğidir." 🚀</i>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
+</div>
