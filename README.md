@@ -24,7 +24,7 @@ class MustafaMutlu:
         self.location = "Turkey 🇹🇷"
         self.education = "MIS Freshman @ Istanbul Aydın University" 
         self.interests = ["AI Strategy", "Backend Development", "Agentic Systems"]
-        self.languages = ["Java", "C#", "C", "Python (Learning)"]
+        self.languages = ["Java", "C#", "C", "Python (Learning)"] # Python öğrenme sürecinde
         self.current_focus = "Mastering programming logic and AI quality evaluation"
 
     def say_hi(self):
@@ -34,15 +34,19 @@ me = MustafaMutlu()
 me.say_hi()
 ```
 
-<h3 align="center">🛠️ Yetenekler & Araçlar</h3>
+<h3 align="center">🛠️ Teknik Yetenekler & Araçlar</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,c,python,vscode,github,git&perline=7" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,cs,c,python,vscode,github,git" />
 </p>
+
+<div align="center">
+<i>Şu an temel programlama mantığı ve algoritma geliştirme üzerine yoğunlaşıyorum. 💻</i>
+</div>
 
 <h3 align="center">🤝 İletişim</h3>
 
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/mustafa-mutlu-b93282379" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -50,16 +54,11 @@ me.say_hi()
 <a href="mailto:mustafamtu3458@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</p>
-
-<div align="center">
-<i>"Zeka, değişime uyum sağlama yeteneğidir." 🚀</i>
 </div>
 
 </td>
 </tr>
 </table>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=tokyonight" width="100%" />
 </div>
