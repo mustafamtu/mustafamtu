@@ -339,11 +339,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Don't%20measure%20yourself%20by%20what%20you%20have%20accomplished%2C%20but%20by%20what%20you%20should%20have%20accomplished%20with%20your%20ability.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=The%20most%20difficult%20times%20for%20many%20of%20us%20are%20the%20ones%20we%20give%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
