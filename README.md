@@ -105,25 +105,20 @@
 ---
 
 <!--Contact Section--> 
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
 <a href="https://github.com/mustafamtu" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mustafa-mutlu-b93282379/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
 <a href="mailto:mustafamtu@icloud.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" height="45" alt="Mail" />
+  <img src="https://img.shields.io/badge/iCloud_Mail-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Mail" />
 </a>
 
 </div>
-<br/>
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
