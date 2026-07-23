@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  # Manually trigger the workflow
+  workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'  # Her gün saat 12:00 (TSİ) çalışır
+    - cron: '0 9 * * *'
 
 jobs:
   update-readme:
