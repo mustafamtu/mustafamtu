@@ -66,7 +66,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜbk Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/mustafamtu">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mustafamtu&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
