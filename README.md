@@ -1,53 +1,55 @@
-<!--Banner-->
 ![Banner Image](./banner.png.png)
 
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M MUSTAFA MUTLU! 
-*Aspiring AI Engineer*
+*Aspiring AI Engineer | Agentic AI & LLMs*
 <br /> 
 
-<!--Start Intro-->                
-<p align="left">I am a passionate aspiring AI Engineer focusing on Python, Data Science, Machine Learning, and Software Development.</p>
+<p align="left">Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, Autonomous AI Agents, and Python Backend Development.</p>
 
-- ✨ Student of life & AI Enthusiast
-- 🌱 Currently mastering Python fundamentals, data structures, and algorithms.
-- 🎯 Next Goal: Deep diving into Pandas, NumPy, and Core Machine Learning models.
-- 💻 Building projects and pushing code daily on GitHub.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
+- 🚀 **Currently Building:** LLM-powered applications, asynchronous engines, and automated workflow tools.
+- 🌱 **Current Deep Dive:** Retrieval-Augmented Generation (RAG), ChromaDB vector search, LangChain LCEL, and Tool-Calling Agents.
+- 🎯 **Next Goal:** Production-ready AI Agent deployments with FastAPI and robust evaluation pipelines.
+- 💻 **Discipline:** Active daily commit streak and hands-on open-source building.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mustafamtu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
 </p>
 
 ---
 
-<!--Languages and Tools Section-->        
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Rᴏᴀᴅᴍᴀᴘ</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills GIF" src="./Skills_Animation_White.gif">
-</picture>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
 <br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Mastering Python Programming and Problem Solving.</li>
-  <li>Preparing for Data Science stack (Pandas & NumPy).</li>
-  <li>Building a strong foundation in Machine Learning concepts.</li>
+  <li><b>RAG Architectures:</b> Document chunking, vector indexing with ChromaDB, and semantic search.</li>
+  <li><b>Conversational AI:</b> Persistent session memory using SQLite & LCEL chains.</li>
+  <li><b>Dynamic Agents:</b> Function calling, custom tool building (<code>@tool</code>), and web search integrations.</li>
 </ul>
 
 <br />
-<br />
-<br />
 
-<!--Trophies Section-->    
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/mustafamtu">
@@ -60,7 +62,6 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -85,7 +86,6 @@
 </table>
 <br />
 
-<!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafamtu&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius: 15px;">
@@ -93,92 +93,6 @@
 
 ---
 
-<!--Thought of the day-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=A%20loving%20heart%20is%20the%20truest%20wisdom.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-<!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
@@ -193,7 +107,7 @@
 </a>
 
 </div>
-<!--Footer--> 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
