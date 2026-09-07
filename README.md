@@ -86,10 +86,7 @@
 </table>
 <br />
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mustafamtu&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Activity Stats" width="80%" />
-</div>
+
 
 ---
 
