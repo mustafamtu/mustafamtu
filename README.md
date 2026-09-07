@@ -88,7 +88,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://ghchart.rshah.org/c56a90/mustafamtu" alt="Mustafa's Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/220a28/c56a90/mustafamtu" alt="Mustafa's Contribution Chart" width="100%" />
 </div>
 
 ---
