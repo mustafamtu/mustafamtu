@@ -87,8 +87,8 @@
 <br />
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center" style="background-color: #220a28; padding: 20px; border-radius: 15px;">
-  <img src="https://ghchart.rshah.org/c56a90/mustafamtu" alt="Mustafa's Contribution Chart" style="filter: invert(0.9) hue-rotate(180deg); width: 100%;" />
+<div align="center">
+  <img src="https://github-readme-activity-graph-render.onrender.com/graph?username=mustafamtu&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" width="100%" />
 </div>
 
 ---
