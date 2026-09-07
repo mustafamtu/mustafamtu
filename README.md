@@ -88,7 +88,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustafamtu&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius: 15px;" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/c56a90/mustafamtu" alt="Mustafa's Contribution Chart" width="100%" />
 </div>
 
 ---
