@@ -10,10 +10,38 @@
 
 <p align="left">Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, Autonomous AI Agents, and Python Backend Development.</p>
 
+### 👨‍💻 Mustafa Mutlu
+**Aspiring AI Engineer | Agentic AI & LLMs**
+
+Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, Autonomous AI Agents, and Python Backend Development.
+
 - 🚀 **Currently Building:** LLM-powered applications, asynchronous engines, and automated workflow tools.
 - 🌱 **Current Deep Dive:** Retrieval-Augmented Generation (RAG), ChromaDB vector search, LangChain LCEL, and Tool-Calling Agents.
 - 🎯 **Next Goal:** Production-ready AI Agent deployments with FastAPI and robust evaluation pipelines.
 - 💻 **Discipline:** Active daily commit streak and hands-on open-source building.
+- 🐧 **Environment:** Linux (Fedora) development environment with daily terminal workflows.
+
+---
+
+### 🛠️ Tech Stack & Learning Roadmap
+
+#### 🧠 LLMs & AI Engineering
+- **Frameworks:** LangChain (LCEL), Google Generative AI (Gemini), Pydantic
+- **Vector Stores & RAG:** ChromaDB, Semantic Search, Document Chunking
+- **Agentic Workflows:** Function Calling, Tool Use (`@tool`), Web Search Integration
+
+#### ⚙️ Backend & Data
+- **Language:** Python
+- **APIs & Web:** FastAPI, Streamlit
+- **Databases:** SQLite (Schema Design, Relational Persistence)
+- **Tools:** Git, Linux / Bash Scripting
+
+---
+
+### 📚 Current Learning & Active Focus
+- **RAG Architectures:** Document chunking strategies, vector embeddings with ChromaDB, and hybrid retrieval.
+- **Conversational AI & Memory:** Persistent session state using SQLite and LangChain LCEL chains.
+- **Dynamic Agents:** Tool-calling agents, structured JSON parsing, and autonomous execution pipelines.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mustafamtu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
 </p>
