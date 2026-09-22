@@ -1,101 +1,61 @@
 ![Banner Image](./banner.png.png)
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M MUSTAFA MUTLU! 
-*Aspiring AI Engineer | Agentic AI & LLMs*
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> MUSTAFA MUTLU
+*AI Engineer | LLM Pipelines, Advanced RAG & Agentic Systems*
+<br />
 
-<p align="left">Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, Autonomous AI Agents, and Python Backend Development.</p>
-
-### 👨‍💻 Mustafa Mutlu
-**Aspiring AI Engineer | Agentic AI & LLMs**
-
-Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, Autonomous AI Agents, and Python Backend Development.
-
-- 🚀 **Currently Building:** LLM-powered applications, asynchronous engines, and automated workflow tools.
-- 🌱 **Current Deep Dive:** Retrieval-Augmented Generation (RAG), ChromaDB vector search, LangChain LCEL, and Tool-Calling Agents.
-- 🎯 **Next Goal:** Production-ready AI Agent deployments with FastAPI and robust evaluation pipelines.
-- 💻 **Discipline:** Active daily commit streak and hands-on open-source building.
-- 🐧 **Environment:** Linux (Fedora) development environment with daily terminal workflows.
-
----
-
-### 🛠️ Tech Stack & Learning Roadmap
-
-#### 🧠 LLMs & AI Engineering
-- **Frameworks:** LangChain (LCEL), Google Generative AI (Gemini), Pydantic
-- **Vector Stores & RAG:** ChromaDB, Semantic Search, Document Chunking
-- **Agentic Workflows:** Function Calling, Tool Use (`@tool`), Web Search Integration
-
-#### ⚙️ Backend & Data
-- **Language:** Python
-- **APIs & Web:** FastAPI, Streamlit
-- **Databases:** SQLite (Schema Design, Relational Persistence)
-- **Tools:** Git, Linux / Bash Scripting
-
----
-
-### 📚 Current Learning & Active Focus
-- **RAG Architectures:** Document chunking strategies, vector embeddings with ChromaDB, and hybrid retrieval.
-- **Conversational AI & Memory:** Persistent session state using SQLite and LangChain LCEL chains.
-- **Dynamic Agents:** Tool-calling agents, structured JSON parsing, and autonomous execution pipelines.
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mustafamtu&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
+Software developer focusing on production-grade Applied AI engineering. Specializing in designing end-to-end LLM workflows with LangChain LCEL, persistent session memory, hybrid RAG routers, tool-calling agents, and robust FastAPI backend services.
 </p>
 
+- 🚀 **Core Focus:** Tool-Calling Agents, Advanced RAG, and Type-Safe Structured LLM Workflows.
+- ⚙️ **Architecture & Reliability:** Implementing intent-based router patterns, Pydantic output validation, and external tool integrations (Tavily, Custom Tools).
+- 💾 **State & Persistence:** Session-based conversation tracking and persistent memory integration via SQLite.
+- 💻 **Discipline:** Daily coding streak, modular OOP structure, and Linux terminal development workflows.
+
 ---
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴇᴀʀɴɪɴɢ Rᴏᴀᴅᴍᴀᴘ</h2> 
+### 🛠️ Tech Stack & Applied Engineering
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain_LCEL-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tavily_Search-4A154B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </div>
 
-<br />
+---
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li><b>RAG Architectures:</b> Document chunking, vector indexing with ChromaDB, and semantic search.</li>
-  <li><b>Conversational AI:</b> Persistent session memory using SQLite & LCEL chains.</li>
-  <li><b>Dynamic Agents:</b> Function calling, custom tool building (<code>@tool</code>), and web search integrations.</li>
-</ul>
+### 🏗️ Technical Competencies & Architectural Patterns
 
-<br />
+* **Advanced RAG & Vector Workflows:** Document ingestion, chunking strategies, and dense embeddings indexed in **ChromaDB**. Intent-based **Router** architectures for dynamic routing between direct answering, vector retrieval, and fallbacks.
+* **Agentic Execution & Tool-Calling:** Designing dynamic agents utilizing custom tools via the `@tool` decorator and external search groundings (**Tavily Search Tool**) to overcome cutoff limitations.
+* **Structured Output & Validation:** Enforcing structured JSON responses and type validation using **Pydantic** output parsers.
+* **Persistent Memory & Session Management:** Managing conversational continuity across stateless architectures using `RunnableWithMessageHistory` backed by relational **SQLite** databases.
+* **Web Services & API Integration:** Exposing LLM pipelines and RAG chains via **FastAPI** microservices, documented with Swagger UI and integrated into reactive frontend apps.
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/mustafamtu">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
+---
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+### 📊 GitHub Activity & Metrics
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Contribution Metrics</strong></h3>
       <p align="center">
         <a href="https://github.com/mustafamtu">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mustafamtu&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
@@ -103,7 +63,7 @@ Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Commit Streak</strong></h3>
       <p align="center">
         <a href="https://github.com/mustafamtu">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mustafamtu&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -112,13 +72,22 @@ Passionate AI Engineer focusing on Large Language Models (LLMs), RAG pipelines, 
     </td>
   </tr>
 </table>
+
 <br />
 
-
+<p align="center">
+  <a href="https://github.com/mustafamtu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&row=1&column=6&margin-w=15&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&row=1&column=6&margin-w=15">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=mustafamtu&no-bg=true&no-frame=true&row=1&column=6&margin-w=15">
+    </picture>
+  </a>
+</p>
 
 ---
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect & Collaborate 🤝</h2>
 <div align="center">
 
 <a href="https://github.com/mustafamtu" target="_blank">
